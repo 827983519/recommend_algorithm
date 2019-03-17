@@ -12,4 +12,4 @@ Now there are three algorithm:
 * LFM topN recommend
   
 
-3. Recommend movie base on movie's genre
+### 3. Recommend movie base on movie's genre
