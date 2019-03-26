@@ -28,7 +28,11 @@ First method is ICF. We try different metrics to compute the nearst neighbours.W
 
 ## LFM
 Use LFM to computer recommend list. We do research on the relation between #classcount, ratio and precision,recall,Fscore,Coverage.
-<div align=centre><img src="LFM_classcount.png" width=300 height=200><img src="ICF_recall.png" width=300 height=200></div>
+<div align=centre><img src="LFM_classcount.png" width=600 height=400><img src="LFM_ratio.png" width=600 height=400></div>
+
+
+## Recommend based on genre
+
 
 
 
