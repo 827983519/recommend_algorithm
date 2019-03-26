@@ -32,7 +32,16 @@ Use LFM to computer recommend list. We do research on the relation between #clas
 
 
 ## Recommend based on genre
+Firstly compute genre correlation
 
+<img src="genre_table.png" width=700 height=400>
+
+Then use these formular to compute the recommend point of movie:
+
+<img src="genre_formular.png" width=500 height=200>
+
+Finally,try to recommend movie to user. We compute that the precision is about 0.07, which is quite low. But we can see the concrete recommend list. We recommend movie to a kid, we can see the movie list is quite resonable.
+<img src="genre_recommend.png" width=600 height=200>
 
 
 
