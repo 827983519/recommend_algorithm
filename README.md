@@ -34,7 +34,7 @@ Use LFM to computer recommend list. We do research on the relation between #clas
 ## Recommend based on genre
 Firstly compute genre correlation
 
-<img src="genre_table.png" width=700 height=400>
+<img src="genre_table.png" width=700 height=300>
 
 Then use these formular to compute the recommend point of movie:
 
