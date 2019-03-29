@@ -43,5 +43,6 @@ Then use these formular to compute the recommend point of movie:
 Finally,try to recommend movie to user. We compute that the precision is about 0.07, which is quite low. But we can see the concrete recommend list. We recommend movie to a kid, we can see the movie list is quite resonable.
 <img src="genre_recommend.png" width=600 height=200>
 
+### Besides these three algorithms, we also try Genetic algorithm, Cuckoo Search and combine with ICF to predict rating. But the performance seems not very good. That maybe because our dataset is too small and too sparse. And we need more information from user to do prediction. 　
 
 
