@@ -1,5 +1,5 @@
-# Recommend_system
-These are some algorithm about recommend movie(For details, please review the report)
+# Recommend_system(For details, please review the report)
+These are some algorithm about recommend movie
 
 Now there are three algorithm:
 
